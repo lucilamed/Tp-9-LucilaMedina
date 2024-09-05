@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A681043B-B394-4D21-83D6-C0B4B78562BD}|Ejercicio5TP9\\Ejercicio5TP9.csproj|d:\\7mo epet.n5 lucila\\profe cano\\trabajo practico n\u00B09 proyecto\\ejercicio5tp9\\ejercicio5tp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A681043B-B394-4D21-83D6-C0B4B78562BD}|Ejercicio5TP9\\Ejercicio5TP9.csproj|solutionrelative:ejercicio5tp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A681043B-B394-4D21-83D6-C0B4B78562BD}|Ejercicio5TP9\\Ejercicio5TP9.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\ejercicio5tp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A681043B-B394-4D21-83D6-C0B4B78562BD}|Ejercicio5TP9\\Ejercicio5TP9.csproj|solutionrelative:ejercicio5tp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\Ejercicio5TP9\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio5TP9\\Form1.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\Ejercicio5TP9\\Form1.cs",
+              "RelativeToolTip": "Ejercicio5TP9\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:18:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\Ejercicio5TP9\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio5TP9\\Form1.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B09 PROYECTO\\Ejercicio5TP9\\Ejercicio5TP9\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio5TP9\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:17:01.143Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

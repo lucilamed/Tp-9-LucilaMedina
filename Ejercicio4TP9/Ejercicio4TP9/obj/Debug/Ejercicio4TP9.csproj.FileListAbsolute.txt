@@ -1,0 +1,20 @@
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.Form1.resources
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.Properties.Resources.resources
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.GenerateResource.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\bin\Debug\Ejercicio4TP9.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.Form1.resources
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.Properties.Resources.resources
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.GenerateResource.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°9 PROYECTO\Ejercicio4TP9\Ejercicio4TP9\obj\Debug\Ejercicio4TP9.pdb
